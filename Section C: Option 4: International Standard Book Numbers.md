@@ -2,7 +2,7 @@ Link to repo for this coding challenge is: https://github.com/TarynNicole/ISBN-C
 
 I chose Option 4 in Section C and used the Python Programming language.
 
-Instructions on how to run the program are provided in the README. Alternatively, you can also click on the link in the README to go to the deployed application in Streamlit to test it there.
+Instructions on how to run the program are provided in the README of the above repo. Alternatively, you can also click on the link in the README to go to the deployed application in Streamlit to test it there.
 
 The program was tested with the following:
 ## Entering a valid ISBN-13 number:
